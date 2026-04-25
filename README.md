@@ -1,4 +1,4 @@
-# LeafDoctor: Deep Learning for Crop Disease Classification
+# CNN-Based-Crop-Disease-Detection
 
 ![Plant Disease Detection Banner](https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20Keras-orange.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
